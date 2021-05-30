@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Santander Dev Week</string>
+    <string name="ola_mundo">Olá Mundo</string>
+    <string name="account_balance">Saldo Disponível</string>
+    <string name="balance_limit">Saldo + Limite:</string>
+    <string name="statement">Ver Extrato</string>
+    <string name="income">Mantenha seus dados atualizados para receber as melhores soluções. Clique aqui.</string>
+    <string name="shopping">Conheça o Shopping Santander: as melhores ofertas e benefícios. Clique aqui!</string>
+    <string name="lending">Organize sua vida financeira</string>
+    <string name="tv_username">Olá, %1$s</string>
+    <string name="tv_agency">Ag %1$s</string>
+    <string name="tv_account">CC %1$s</string>
+    <string name="tv_balance">R$ %1$s</string>
+    <string name="tv_balance_limit_value">R$ %1$s</string>
+
+</resources>
